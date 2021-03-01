@@ -21,4 +21,4 @@ The environment is considered solved, when the average (over 100 episodes) of th
 ![image](https://github.com/SHIVOH/MADDPG-agent-for-playing-tennis/blob/main/drl3.png)
 - Run [Navigation.ipynb](/Navigation.ipynb)
 - See a glimpse of my [agent during training](https://www.youtube.com/watch?v=GsU6uDynaw8) and my [trained agent](https://www.youtube.com/watch?v=aMmo9q_zODk) collecting bananas on YouTube.
-- Do checkout my [Report](/Report.pdf) for more theoretical explanation of the project implementation.
+- Do checkout my [Report](https://github.com/SHIVOH/MADDPG-agent-for-playing-tennis/blob/main/Report.ipynb)
