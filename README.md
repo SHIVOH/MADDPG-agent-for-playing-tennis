@@ -1,7 +1,7 @@
 # Deep Reinforcement Learning Agent-for-playing-tennis
 
 
-[Environment](tennis.png)
+![Environment](tennis.png)
 
 
 In this [environment](https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Learning-Environment-Examples.md#tennis), two agents control rackets to bounce a ball over a net. If an agent hits the ball over the net, it receives a reward of +0.1. If an agent lets a ball hit the ground or hits the ball out of bounds, it receives a reward of -0.01. Thus, the goal of each agent is to keep the ball in play.
