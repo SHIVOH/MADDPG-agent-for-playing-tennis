@@ -16,9 +16,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 - Gain a basic understanding of [Unity Environment](https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Learning-Environment-Examples.md#tennis)
 - Set up a Python 3.6 Environment to install [Dependencies](https://github.com/udacity/deep-reinforcement-learning#dependencies) involving PyTorch, the ML-Agent toolkit and a few more Python packages.
 - Download a Unity Environment for [Windows(64-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)/[Windows(32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)/[Mac OSX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)/[LINUX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
-
+- Run [Navigation.ipynb](/Navigation.ipynb)
 ## My Solution
 ![image](https://github.com/SHIVOH/MADDPG-agent-for-playing-tennis/blob/main/drl3.png)
-- Run [Navigation.ipynb](/Navigation.ipynb)
-- See a glimpse of my [agent during training](https://www.youtube.com/watch?v=GsU6uDynaw8) and my [trained agent](https://www.youtube.com/watch?v=aMmo9q_zODk) collecting bananas on YouTube.
 - Do checkout my [Report](https://github.com/SHIVOH/MADDPG-agent-for-playing-tennis/blob/main/Report.ipynb) for understanding my implementation
