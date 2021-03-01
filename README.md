@@ -18,7 +18,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 - Download a Unity Environment for [Windows(64-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)/[Windows(32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)/[Mac OSX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)/[LINUX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
 
 ## My Solution
-![image](https://github.com/SHIVOH/Deep-Reinforcement-Learning-My-First-DQN-Agent/blob/main/resultDRL.png)
+![image](https://github.com/SHIVOH/MADDPG-agent-for-playing-tennis/blob/main/drl3.png)
 - Run [Navigation.ipynb](/Navigation.ipynb)
 - See a glimpse of my [agent during training](https://www.youtube.com/watch?v=GsU6uDynaw8) and my [trained agent](https://www.youtube.com/watch?v=aMmo9q_zODk) collecting bananas on YouTube.
 - Do checkout my [Report](/Report.pdf) for more theoretical explanation of the project implementation.
